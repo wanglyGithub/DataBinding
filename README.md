@@ -4,4 +4,4 @@
 
 该工程Demo实例主要是为了演示MVVM，当中里面包含了 DataBinding的简单使用Demo
 
-![]{https://github.com/wanglyGithub/DataBinding/blob/master/preview/preview.png}
+![](https://github.com/wanglyGithub/DataBinding/blob/master/preview/preview.png)
